@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0354_001.yaml, hash: 'sha256:f598b9fa7927d37cd763b8c69459f2d8a984c8af2903079e472b205068ebaabd'}
+  - {seq: 1, filename: KR4k0354_001.yaml, hash: 'sha256:d4e1a831df8b13ab0e2960110240d8c44f428059427f4278f2ad395a67e9e984'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0354_001.markers.yaml, hash: 'sha256:637969960cc0ba225128cc10c9b0d89405e5476a79dac3367ac6dbeec9df63f8'}
+  - {seq: 1, role: markers, filename: assets/KR4k0354_001.markers.yaml, hash: 'sha256:ecc0c2b860fa3638fee08f8c8f490ff285832673cd1fdd96a387dad524e7ba6d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 汲冢書鈔
   type: section
   level: 1
-hash: sha256:4c4d4aa60ed92f2d1fab16ddfe597a04ddb6c696241e1f390a54df98379fc1e5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:557150e735bde908a3c48146975c77b524bb2d8ff88cacd4522733ed66b1d10c
