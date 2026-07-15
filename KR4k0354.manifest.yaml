@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0354/v1
 canonical_location: https://kanripo.org/bkk/KR4k0354/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 汲冢書鈔一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0354_001.yaml, hash: 'sha256:d4e1a831df8b13ab0e2960110240d8c44f428059427f4278f2ad395a67e9e984'}
+  - {seq: 1, filename: KR4k0354_001.yaml, hash: 'sha256:30fa35c46524dcd3ef47ce5f47ffe2b4412a5fa35871aa1dd94ef71a5d863d71'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0354_001.markers.yaml, hash: 'sha256:ecc0c2b860fa3638fee08f8c8f490ff285832673cd1fdd96a387dad524e7ba6d'}
+  - {seq: 1, role: markers, filename: assets/KR4k0354_001.markers.yaml, hash: 'sha256:94db67ddf350bfa777af721623831af1172394d16c37349d55e60e4140d3bcba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 汲冢書鈔
   type: section
   level: 1
-hash: sha256:557150e735bde908a3c48146975c77b524bb2d8ff88cacd4522733ed66b1d10c
+hash: sha256:199027d5d3cde830839186ff9edefabbfe0fdf65e4b572a2f7f88fcd1277f675
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
